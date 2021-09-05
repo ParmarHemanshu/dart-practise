@@ -32,6 +32,7 @@ class Queue {
 
     print("\n--------------------------\n Deleted Element is :"+this.items.removeAt(0).toString());
     print("--------------------------\nStack after removing Element :\n--------------------------");
+   
     //print updated queue
     print(items);
    
@@ -80,11 +81,6 @@ void main() {
   //peep or check for element in queue
   bool isFound=q1.peep("444",myList);
   print(isFound);
-  
-  
-
- 
-  
   
   
 }
