@@ -21,6 +21,7 @@ void bubbleSort_asc(List list) {
 //Desc bubble sort
 void bubbleSort_desc(List list, int n) {
   
+  //check if less than or single element present in list
   if (n <= 1){
     return;
   }
