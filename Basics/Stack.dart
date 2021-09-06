@@ -1,3 +1,4 @@
+////////////// Implementing Stack Data Structure with Push , Pop operations and basic Validations
 //Class Stack
 class Stack {
   //creating dynamic list 
