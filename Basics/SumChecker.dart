@@ -1,3 +1,5 @@
+//////////// Give List and integer number it will find all unqiue pair combination as a sum of that number from list
+
 class SumChecker{
   
   //check for elements whoes addition is given num
