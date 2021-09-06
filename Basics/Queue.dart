@@ -1,3 +1,5 @@
+//////////////// Implementing Queue Data Structure with Enqueue, Dequeue and Peep operations and validations
+
 //Class Queue
 class Queue {
   
