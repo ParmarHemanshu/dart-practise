@@ -1,7 +1,7 @@
 //Class Stack
 class Stack {
   //creating dynamic list 
-  List items;
+  List items=[0];
   
   //Constructor taking the list or you can create getter setter for items
   Stack(this.items);
