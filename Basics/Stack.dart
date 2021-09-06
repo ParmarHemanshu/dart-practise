@@ -31,7 +31,8 @@ class Stack {
     if(items.isEmpty){
       print("***No Items in the stack***");
   
-    }else{
+    }else
+    {
  
     print("\n--------------------------\nPopped Element is :"+this.items.removeLast().toString());
     print("--------------------------\nStack after removing Element :\n--------------------------");

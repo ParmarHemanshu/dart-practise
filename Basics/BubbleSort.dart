@@ -27,7 +27,9 @@ void bubbleSort_desc(List list, int n) {
   }
 
   for (var i = 0; i < n - 1; i++)
-    if (list[i] < list[i + 1]) {
+
+    if (list[i] < list[i + 1]) 
+    {
       var temp = list[i];
       list[i] = list[i + 1];
       list[i + 1] = temp;

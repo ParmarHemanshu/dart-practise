@@ -28,7 +28,8 @@ class Queue {
     if(items.isEmpty){
       print("***No Items in the queue***");
   
-    }else{
+    }else
+    {
 
     print("\n--------------------------\n Deleted Element is :"+this.items.removeAt(0).toString());
     print("--------------------------\nStack after removing Element :\n--------------------------");
