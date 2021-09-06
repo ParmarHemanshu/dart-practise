@@ -1,4 +1,4 @@
-/////////// Implement Bubble Sorting techniqueon given List using Dart 
+/////////// Implement Bubble Sorting technique on given List using Dart 
 
 class BubbleSort{
   
